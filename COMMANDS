@@ -1,0 +1,13 @@
+#To run if we need to create new JSONL:
+python -m Doctrail.ingest
+
+#To run the tests, use the following command in your terminal:
+pytest -q
+
+#Retrieval via CLI (optional -k argument)
+python -m Doctrail.cli search "attention heads"
+
+#Generate via CLI(model= llama3.2:1b)
+ollama serve
+python -m Doctrail.cli ask "how is hash value calculated in bitcoin network?"
+python -m Doctrail.cli ask "トヨタとは何ですか?"

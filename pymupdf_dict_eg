@@ -1,0 +1,18 @@
+{
+  "blocks": [
+    {
+      "type": 0,  # 0 means text block, 1 means image block
+      "lines": [
+        {
+          "spans": [
+            {
+              "text": "1. Introduction",
+              "size": 16.0,       # Font size in points
+              "flags": 2          # Bit 2 indicates bold font
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
