@@ -1,0 +1,31 @@
+{
+  "chunker": "heading",
+  "total_chunks": 326,
+  "files": [
+    {
+      "rel_path": "attention_en.pdf",
+      "sha256": "bdfaa68d8984f0dc02beaca527b76f207d99b666d31d1da728ee0728182df697",
+      "chunks": 99
+    },
+    {
+      "rel_path": "bitcoin_en.pdf",
+      "sha256": "b1674191a88ec5cdd733e4240a81803105dc412d6c6708d53ab94fc248f4f553",
+      "chunks": 54
+    },
+    {
+      "rel_path": "bitcoin_jp.pdf",
+      "sha256": "751805870e29e676d893566075c0d4f51b366284b9406c3cf223b875cdc424bf",
+      "chunks": 28
+    },
+    {
+      "rel_path": "tesla_financial_en.pdf",
+      "sha256": "74b08a054d5d9b312d47a1ff043429ac87a2ef5e3a11630445eb779740b73885",
+      "chunks": 76
+    },
+    {
+      "rel_path": "toyota_financial_jp.pdf",
+      "sha256": "c54bfbba2b0bc07cf5c9e4e70a04e734fe2ae333946b95094b21d7a086fe35b5",
+      "chunks": 69
+    }
+  ]
+}
