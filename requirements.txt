@@ -1,0 +1,5 @@
+pymupdf
+pyyaml
+pytestrank_bm25
+numpy
+sentence-transformers

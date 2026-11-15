@@ -1,0 +1,6 @@
+data_dir: "data/docs"
+output_dir: "data/processed"
+chunker: "heading" # "fixed" or "heading"
+fixed_chunk_size: 800
+fixed_chunk_overlap: 100
+heading_max_size: 1200
